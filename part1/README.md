@@ -6,7 +6,7 @@ The stemming algorithm I used is Porter’s stemming algorithm, I used the pytho
 In **test.py**, there is an option to apply stemming to your query term. The program will read in the dictionary and posting from dictionary.txt and posting.txt. Next, the program will ask for a user input for a term. The user then has a choice to apply stemming to the term or not. The program will now find the term in the dictionary. If term is found then it will find and print the title and abstract for each document ID listed in the posting for that term.
 
 #Instructions
-1.	Make sure you have Python version 2.7 installed
+1.	Make sure you have Python version 2.7 installed 
 2.	Make sure you have the following files:
 
     a.	invert.py 
@@ -25,9 +25,13 @@ In **test.py**, there is an option to apply stemming to your query term. The pro
     
     h.	common_words
 3.	Make sure all the files are in the same directory 
+
 4.	Make sure files: output.txt, temp.txt, dictionary.txt, posting.txt are empty when you run invert.py! Delete text in those files if you want to run again!
+
 5.	invert.py need files from “c.” to “h.” to run
+	
 6.	test.py needs files “e.” to “g.” to run
+
 7.	 Open index.py or test.py in:
 
     a.	Python 2.7.6 IDLE, click Run from top menu and click Run Module or just press F5
