@@ -30,6 +30,8 @@ In **test.py**, there is an option to apply stemming to your query term. The pro
 5.	invert.py need files from “c.” to “h.” to run
 6.	test.py needs files “e.” to “g.” to run
 7.	 Open index.py or test.py in:
-a.	Python 2.7.6 IDLE, click Run from top menu and click Run Module or just press F5
-b.	Python PyScripter , click green arrow in the toolbar at the top or just press CTRL+F9
+
+    a.	Python 2.7.6 IDLE, click Run from top menu and click Run Module or just press F5
+    
+    b.	Python PyScripter , click green arrow in the toolbar at the top or just press CTRL+F9
  
