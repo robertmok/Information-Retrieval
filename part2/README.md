@@ -104,6 +104,7 @@ Here are the forumlas used:
 3. posting.txt
 
 Before you run search.py, please run invert.py first if you have not run it ONCE!
+
 This is so that the dictionary.txt and posting.txt is created!
 
 **Note:**
