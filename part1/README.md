@@ -24,7 +24,6 @@ In **test.py**, there is an option to apply stemming to your query term. The pro
     g.	cacm.all
     
     h.	common_words
-    
 3.	Make sure all the files are in the same directory 
 4.	Make sure files: output.txt, temp.txt, dictionary.txt, posting.txt are empty when you run invert.py! Delete text in those files if you want to run again!
 5.	invert.py need files from “c.” to “h.” to run
